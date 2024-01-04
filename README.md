@@ -32,9 +32,9 @@ options:
 
 
 
-# Tested Distribution
+# Tested Distro
 
-Debian (kali, Ubuntu)
+Debian (kali , Ubuntu)
 
 ## 🔗 Links
 

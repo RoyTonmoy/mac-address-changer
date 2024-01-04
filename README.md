@@ -30,7 +30,7 @@ options:
   -m NEW_MAC, --mac NEW_MAC
                         new mac address
 
-
+N.B. Mac address should be stated with 00 and run with sudo access
 
 # Tested Distro
 

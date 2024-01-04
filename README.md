@@ -11,7 +11,7 @@ A MAC (Media Access Control) address is a unique 48-bit identifier assigned to a
 * Evasion of Tracking: Changing the MAC address helps users avoid tracking or tracing of device activities
 * Network Access Bypass: Enables entry into networks restricted to specific MAC addresses by altering the device's MAC address.
 
-# Installation
+# Clone
 
     git clone https://github.com/RoyTonmoy/mac-address-changer.git
 
@@ -29,6 +29,12 @@ options:
   
   -m NEW_MAC, --mac NEW_MAC
                         new mac address
+
+
+
+# Tested Distribution
+
+Debian (kali, Ubuntu)
 
 ## 🔗 Links
 

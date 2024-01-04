@@ -32,6 +32,9 @@ options:
 
 N.B. Mac address should be stated with 00 and run with sudo access
 
+For example:
+    python3 mac_changer.py -i <interface> -m 00:11:22:33:44:55
+
 # Tested Distro
 
 Debian (kali , Ubuntu)
